@@ -3,10 +3,10 @@
 <h4> What I do</h3>
 <p> I make roblox scripts for educational purposes, I make lua and python programs and learning c/c#</p>
 <br>
-<h4> Is what I make safe? </h4>
+<h3> Is what I make safe? </h4>
 <p> Yes, most of the time the code I make is open source which means if you do not beleive me you can look yourself.</p>
 <br>
-<h4> Contact Me</h4>
+<h3> Contact Me</h4>
 <p> Contact me through discord with the username "green_reaper"</p>
 <br>
 <h2> Notes</h2>
