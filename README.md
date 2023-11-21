@@ -2,7 +2,7 @@
 
 <h4> What I do:</h3>
 <li>I make roblox scripts for educational purposes</li>
-<li>Create HTML sites along with CSS, JS, PHP</li>
+<li>Create HTML sites with CSS, JS, PHP</li>
 <li>3D Modeling</li>
 <li> Python Development</li>
 <br>
