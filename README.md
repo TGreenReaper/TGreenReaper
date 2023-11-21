@@ -7,7 +7,7 @@
 <li> Python Development</li>
 <br>
 <h3> Is what I make safe? </h3>
-<p> Yes, most of the time the code I make is open source which means if you do not beleive me you can look yourself.</p>
+<p> Yes, most of the time the code I make is open source which means if you do not believe me you can look yourself.</p>
 <br>
 <h3> Contact Me</h3>
 <p> Contact me through discord with the username "green_reaper" or join the </p> <a href="https://discord.gg/4Y6zZRQ5"> Discord Server</a>
